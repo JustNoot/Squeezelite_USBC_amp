@@ -1,1 +1,1 @@
-# Sqeezelite_USBC_amp
+# Squeezelite_USBC_amp
